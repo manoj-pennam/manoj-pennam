@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/manoj-pennam-bb0a7b79/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/manoj-pennam">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -104,7 +104,7 @@ Microsoft Azure, ADLS, CI/CD for Data Pipelines, Cost Optimization
 ## 📫 Let’s Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/manoj-pennam-bb0a7b79/
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 💻 GitHub: https://github.com/manoj-pennam
 
 ---
 
