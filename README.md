@@ -71,15 +71,27 @@ Microsoft Azure, ADLS, CI/CD for Data Pipelines, Cost Optimization
 
 ---
 
+## 📂 Featured Projects (Coming Soon)
+
+> I recommend adding 3–5 strong portfolio projects here:
+- 🔹 **Databricks Lakehouse ETL Framework** – Spark + Delta + Incremental Loads  
+- 🔹 **CDC / SCD Pipeline in PySpark** – End-to-end incremental data processing  
+- 🔹 **SQL Performance Tuning Cookbook** – Real-world optimization patterns  
+- 🔹 **Azure Data Platform Reference Architecture** – A production-style design  
+
+(I can help you design these repos one by one.)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manoj-pennam&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-pennam&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-pennam&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -89,7 +101,7 @@ Microsoft Azure, ADLS, CI/CD for Data Pipelines, Cost Optimization
 - 🔹 Enterprise data platform modernization on **Azure + Databricks**
 - 🔹 Building **robust Lakehouse architectures**
 - 🔹 Advanced **Spark & SQL performance optimization**
-- 🔹 Strengthening open-source & portfolio projects in **Data Engineering**
+- 🔹 Building a strong **open-source Data Engineering portfolio**
 
 ---
 
