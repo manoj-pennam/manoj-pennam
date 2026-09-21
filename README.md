@@ -20,7 +20,7 @@ Lead Data Engineer | Databricks | Apache Spark | Delta Lake | Azure | SQL | Lake
 
 ## Professional Summary
 
-Lead Data Engineer with **11+ years of experience** designing and building **large-scale, cloud-native data platforms** across healthcare and banking domains. Specialized in **Databricks, Apache Spark, PySpark, Delta Lake, SQL, and Microsoft Azure** with a strong track record of **modernizing legacy ETL systems into scalable Lakehouse architectures**.
+Lead Data Engineer with **12+ years of experience** designing and building **large-scale, cloud-native data platforms** across healthcare and banking domains. Specialized in **Databricks, Apache Spark, PySpark, Delta Lake, SQL, and Microsoft Azure** with a strong track record of **modernizing legacy ETL systems into scalable Lakehouse architectures**.
 
 Proven expertise in **ETL/ELT, CDC, SCD Type 1/2, data modeling (Star/Snowflake), performance tuning, cost optimization, CI/CD for data pipelines**, and **technical leadership**. Delivered high-impact data systems used by **300+ business users** and processing **1TB+ data per month**.
 
